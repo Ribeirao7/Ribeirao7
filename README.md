@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ribeirao7
+- 👋 Hi, My name is Seixas Ribeiro
 - 👀 I’m interested in learning programming languanges and web techs
 - 🌱 I’m currently learning java web.
 - 💞️ I’m looking to collaborate on projects.
